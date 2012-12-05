@@ -1,0 +1,54 @@
+Submission Information
+----------------------
+
+Please submit abstracts about recent work that provides original or significant
+contributions relevant to the topics of interest to the nuclear community. The first
+author on all submissions must be a student. Paper selection for podium presentations
+will be judged on the following criteria:
+(1) originality, (2) significance, and (3) relevance.
+
+Abstracts should be 2-3 pages. For best papers track, it is encouraged that abstracts
+be 3-5 pages. Please limit titles to a maximum of 3 lines.
+The authors are required to use templates found on the technical program website 
+provided below. Submission will be made electronically through the conference
+website. Only Portable Document Format (*.pdf) submission will be accepted.
+
+There will be a limited number of presentations, so while some abstracts may not be
+accepted for podium presentations, they may be accepted for a poster presentation.
+You may indicate your preference of podium presentation or poster during the submission
+process. The same abstract format should be used for poster presentation preference.
+Please visit the conference website for more information.
+
+Technical Tracks
+----------------
+
+Accelerator Applications
+Aerospace Nuclear Science & Technology
+Biology and Medicine
+Decommissioning, Decontamination, & Reutilization
+Education, Training, & Workforce
+Environmental Sciences
+Fuel Cycle & Waste Management
+Fusion Energy & Plasmas
+Human Factors, Instrumentation & Controls
+Isotopes and Radiation
+Materials Science & Technology
+Mathematics & Computation
+Nonproliferation & Nuclear Safeguards
+Nuclear Criticality Safety
+Nuclear Installations Safety
+Operations & Power
+Policy
+Radiation Protection & Shielding
+Reactor Physics
+Robotics & Remote Systems
+Special Session: Radiochemistry
+Thermal Hydraulic/Fluids
+
+Other things to add/change:
+
+--Change my title to Technical Program Chair only if it fits on one line
+
+-- List technical program conference website under my name in the bottom right corner with HYPERLINKING!
+
+
