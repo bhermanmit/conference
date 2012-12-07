@@ -42,7 +42,7 @@ Policy
 Radiation Protection & Shielding
 Reactor Physics
 Robotics & Remote Systems
-Special Session: Radiochemistry
+Special Session: Radiochemistry <----------- This is NEW
 Thermal Hydraulic/Fluids
 
 Other things to add/change:
@@ -50,5 +50,9 @@ Other things to add/change:
 --Change my title to Technical Program Chair only if it fits on one line
 
 -- List technical program conference website under my name in the bottom right corner with HYPERLINKING!
+
+-- Get a different logo for ANS MIT
+
+-- Change submission deadline to Febraury 15th and acceptance to March 1st
 
 
